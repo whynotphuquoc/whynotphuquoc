@@ -1,4 +1,0 @@
-# .eslintignore file
-.next
-dist
-node_modules/
